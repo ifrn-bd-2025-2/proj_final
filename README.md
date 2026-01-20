@@ -1,7 +1,7 @@
-# Avaliação Final
-Template da Avaliação Final
+# Projeto Final
+Template do Projeto Final da Disciplina **Bancos de Dados**
 
 ## Instruções
 
-- [ ] Deverá existir um único arquivo com as soluçõoes da avaliação cujo nome deverá ser prova.py
-- [ ] Ao término de cada questão faça o envio do(s) commit(s) relativo(s) à solução de cada uma das questões.
+- [ ] Atender aos requisitos obrigatórios contidos no documento "Roteiro do Projeto Final de Bancos de Dados" disponibilizado no ambiente do GSA da turma.
+- [ ] Implementar Readme.md para atender os itens do relatório (opcional). 
